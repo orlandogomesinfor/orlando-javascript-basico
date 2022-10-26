@@ -1,0 +1,1 @@
+Linguagem de script para auxiliar criação de arquivos HTML.
